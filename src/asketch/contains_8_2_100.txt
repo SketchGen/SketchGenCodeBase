@@ -1,5 +1,0 @@
- [INFO] ==========
- [INFO] Hole 0
- [INFO] Expression Number Sorted by Arity: [409, 0]
- [INFO] Expression and Test Generation Time: 563201ms
- [INFO] Number of New Tests Generated: 85
